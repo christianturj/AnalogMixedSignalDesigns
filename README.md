@@ -1,1 +1,1 @@
-A small collection of analog/mixed-signal IC design projects/labs I've been working on!
+A small collection of digital, analog/mixed-signal and SERDES IC design projects/labs I've been working on!
